@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ProjectLib")(type "KiCad")(uri "${KIPRJMOD}/lib/tps63070.pretty")(options "")(descr ""))
+  (lib (name "Switch_Toggle")(type "KiCad")(uri "${KIPRJMOD}/Switch_Toggle.pretty")(options "")(descr ""))
+)

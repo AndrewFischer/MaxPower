@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TPS6307x")(type "KiCad")(uri "${KIPRJMOD}/TPS6307x.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC3130")(type "KiCad")(uri "${KIPRJMOD}/LTC3130.kicad_sym")(options "")(descr ""))
+  (lib (name "Filter_CoilCraft")(type "KiCad")(uri "${KIPRJMOD}/Filter_CoilCraft.kicad_sym")(options "")(descr ""))
+)
